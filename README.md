@@ -8,6 +8,7 @@ A website that for a marketing agency that follows accessiblity standards
 * CSS
 
 # Website
+https://dalexa292.github.io/Horiseon/
 
 ## Contribution
 
